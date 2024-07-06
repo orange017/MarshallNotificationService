@@ -1,2 +1,4 @@
 obj/*
 bin/*
+install.cmd
+uninstall.cmd
